@@ -56,16 +56,6 @@ New-Life/
 │   └── utils/                    # Utility functions
 ├── notebooks/
 │   └── 01_data_exploration.ipynb # Data exploration notebook
-├── visualizations/              # Model performance charts & graphs
-│   ├── 00_executive_summary.png  # Complete performance overview
-│   ├── 01_model_performance_comparison.png
-│   ├── 02_feature_importance.png
-│   ├── 03_confusion_matrices.png
-│   ├── 04_roc_curves.png
-│   ├── 05_prediction_distributions.png
-│   ├── 06_cross_validation_curves.png
-│   └── README.md                 # Visualization documentation
-├── logs/                         # Application logs
 ├── venv/                         # Virtual environment
 ├── requirements.txt              # Python dependencies
 └── README.md                     # This file
